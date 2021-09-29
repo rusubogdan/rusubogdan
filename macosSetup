@@ -1,4 +1,42 @@
-Notes for a Macbook Pro dev setup
+My Macbook Pro configuration for development - Data Engineering. As of September 2021
 
+
+Browsers:
+- Firefox (main)
+- Chrome, Brave
+
+Work environment:
+
+- Spotify
+- Zoom
+- Slack
+
+Terminal:
+
+- iTerm2
+- zsh (default on Mac) + oh-my-zsh + power 10k theme
+- homebrew
+- nice plugins https://travis.media/top-10-oh-my-zsh-plugins-for-productive-developers/
+- mine: `git zsh-autosuggestions copydir copybuffer zsh_reload history jsontools osx`
+- Maven
+- aliases
+
+Java:
+
+- jenv for multiple Java versions
+- Java 11 (works fine with Spark 3.x)
+
+- Scala 2.12 - version for Spark 3.x
+- Spark 3.x - latest
+
+Editors:
+
+- Sublime
+- Intellij Idea
+- Pycharm
+
+Tools:
+
+- Postman
 
 
