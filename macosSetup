@@ -1,42 +1,46 @@
-My Macbook Pro configuration for development - Data Engineering. As of September 2021
+bogdan@bogdans-MacBook-Pro ~ % brew install iterm2
 
-
-Browsers:
-- Firefox (main)
-- Chrome, Brave
-
-Work environment:
-
+Install:
+- Firefox
 - Spotify
 - Zoom
+- Chrome
 - Slack
+- iterm2
 
 Terminal:
+- zsh (default) + oh-my-zsh + power 10k
+- homebrew http://sourabhbajaj.com/mac-setup/Homebrew/
+- iterm2
+- jenv
+- zsh plugins - git zsh-autocomplete 
+source: https://travis.media/top-10-oh-my-zsh-plugins-for-productive-developers/
 
-- iTerm2
-- zsh (default on Mac) + oh-my-zsh + power 10k theme
-- homebrew
-- nice plugins https://travis.media/top-10-oh-my-zsh-plugins-for-productive-developers/
-- mine: `git zsh-autosuggestions copydir copybuffer zsh_reload history jsontools osx`
-- Maven
-- aliases
+- sublime
 
-Java:
+java 11
+scala 2.12
+spark 3.12
 
-- jenv for multiple Java versions
-- Java 11 (works fine with Spark 3.x)
+python ...
 
-- Scala 2.12 - version for Spark 3.x
-- Spark 3.x - latest
-
-Editors:
-
-- Sublime
-- Intellij Idea
-- Pycharm
-
-Tools:
-
-- Postman
+Slack 
 
 
+Zoom
+
+Postaman
+
+PyCharm
+
+Maven
+
+Docker
+
+Show F keys in touch bar https://support.apple.com/en-us/HT207240
+https://www.jetbrains.com/help/idea/touch-bar-support.html
+
+Signal
+
+
+Iterm2 config: https://medium.com/@jonnyhaynes/jump-forwards-backwards-and-delete-a-word-in-iterm2-on-mac-os-43821511f0a
